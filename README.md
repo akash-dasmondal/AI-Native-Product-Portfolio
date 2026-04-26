@@ -2,10 +2,13 @@
 A portfolio of AI-native systems and agentic applications designed to solve real-world problems across payments, healthcare, and platform ecosystems.  Focused on building production-ready workflows that combine AI, system design, and product thinking to drive efficiency, automation, and scalable outcomes in complex, regulated environments.
 
 **🛠️ Systems & Applications**
+
 **🗂️ PRD Generator (Agentic Workflow)**
 Transforms problem statements into structured, production-ready product documents with compliance, system design, and metrics
+
 **🏥 Pre-Auth Intelligence System**
 AI-driven eligibility and risk assessment engine for healthcare claims and pre-authorization workflows
+
 **⚡ Payment Dispute Intelligence Engine**
 Converts transaction errors into root cause analysis, resolution workflows, and actionable insights
 

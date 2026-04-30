@@ -18,6 +18,8 @@ Converts transaction errors into root cause analysis, resolution workflows, and 
 
 **Live Demo:** https://dispute-resolution-hub.vercel.app/
 
+**Note - This is only the beginning—next builds are already taking shape. The roadmap ahead is already unfolding.**
+
 **⚙️ Architecture**
 **Frontend:** React + Tailwind
 **AI Layer:** LLM-powered workflows (Claude API)

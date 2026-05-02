@@ -23,7 +23,7 @@ Converts transaction errors into root cause analysis, resolution workflows, and 
 
 **Live Experience Center:** https://dispute-resolution-hub.vercel.app/
 
-**🗂️ PRD Generator (Agentic Workflow)**
+**🗂️ PRD Generator**
 Transforms problem statements into structured, production-ready product documents with compliance, system design, and metrics
 
 **Live Experience Center:** https://prd-genius-six.vercel.app/ 

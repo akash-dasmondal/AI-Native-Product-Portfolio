@@ -10,7 +10,7 @@ A portfolio of AI-native systems and agentic applications designed to solve real
 
   - Refine, analyze, and optimize performance across your entire portfolio - effortlessly.
 
-  **Live Experience Cente:** https://merchant-insights-hub-roan.vercel.app/
+      **Live Experience Cente:** https://merchant-insights-hub-roan.vercel.app/
 
 **🏥 Pre-Auth Intelligence System**
 

@@ -3,7 +3,7 @@ A portfolio of AI-native systems and agentic applications designed to solve real
 
 **🛠️ Systems & Applications**
 
-**InsightIQ** 
+📊 **InsightIQ** 
 Ask anything. Get instant merchant insights.
 
 Type your business question in plain English - we’ll translate it into KPIs, comparisons, charts, and AI-driven recommendations. Get answers in English, हिन्दी, or Hinglish.

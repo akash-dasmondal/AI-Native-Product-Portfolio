@@ -3,20 +3,30 @@ A portfolio of AI-native systems and agentic applications designed to solve real
 
 **🛠️ Systems & Applications**
 
-**🗂️ PRD Generator (Agentic Workflow)**
-Transforms problem statements into structured, production-ready product documents with compliance, system design, and metrics
+**InsightIQ** 
+Ask anything. Get instant merchant insights.
 
-**Live Demo:** https://prd-genius-six.vercel.app/ 
+Type your business question in plain English - we’ll translate it into KPIs, comparisons, charts, and AI-driven recommendations. Get answers in English, हिन्दी, or Hinglish.
+
+Refine, analyze, and optimize performance across your entire portfolio - effortlessly.
+
+**Live Experience Cente:** https://merchant-insights-hub-roan.vercel.app/
 
 **🏥 Pre-Auth Intelligence System**
+
 AI-driven eligibility and risk assessment engine for healthcare claims and pre-authorization workflows
 
-**Live Demo:** https://preauth-buddy.vercel.app/
+**Live Experience Center:** https://preauth-buddy.vercel.app/
 
 **⚡ Payment Dispute Intelligence Engine**
 Converts transaction errors into root cause analysis, resolution workflows, and actionable insights
 
-**Live Demo:** https://dispute-resolution-hub.vercel.app/
+**Live Experience Center:** https://dispute-resolution-hub.vercel.app/
+
+**🗂️ PRD Generator (Agentic Workflow)**
+Transforms problem statements into structured, production-ready product documents with compliance, system design, and metrics
+
+**Live Experience Center:** https://prd-genius-six.vercel.app/ 
 
 **Note - This is only the beginning - next builds are already taking shape. The roadmap ahead is already unfolding.**
 
